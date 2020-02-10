@@ -1,5 +1,6 @@
 # KorRealEstateScrapper
 Web crawler of Korean Real Estate (apartment) transaction data
+본 파이썬 모듈은 data.go.kr에서 제공하는 web API를 활용하여 부동산 실거래내역을 일괄적으로 다운받아서 테이블 형태(csv)의 데이터로 저장하는 기능을 가지고 있습니다.
 
 ## How to use
 ```python
