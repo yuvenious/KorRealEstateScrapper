@@ -1,0 +1,6 @@
+__pycache__
+.ipyhb_checkpoints
+archive
+output
+stat
+*.ipynb
